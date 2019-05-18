@@ -1,0 +1,7 @@
+dependencies {
+
+    implementation deps.core.kotlinStdLib
+    implementation deps.core.appcompat
+    implementation deps.core.constraintLayout
+
+}
